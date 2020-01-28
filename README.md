@@ -11,7 +11,7 @@ Katie Kauppi
 1. Annotated Bibliography
    - Problem Statement 
      - Harms
-     - Significance
+     - Significance of those harms
      - Inherent nature of the problem
    - Selecred LMIC or Region
    - Dimension of Human Development
