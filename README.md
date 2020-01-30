@@ -6,6 +6,8 @@ Katie Kauppi
 
 1.  [Blumenstock](https://github.com/katieanne95/workshop/blob/master/Blumenstock%20response%20jan28) (Jan. 28)
 
+1.  [Blumenstock Response](https://katieanne95.github.io/workshop/Blumenstock_response) (Jan. 28)
+
 ## Formal Assignments
 
 1. Annotated Bibliography
