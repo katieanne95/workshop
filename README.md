@@ -4,8 +4,6 @@ Katie Kauppi
 
 ## Responses to Readings
 
-1.  [Blumenstock](https://github.com/katieanne95/workshop/blob/master/Blumenstock_response.md) (Jan. 28)
-
 1.  [Blumenstock Response](https://katieanne95.github.io/workshop/Blumenstock_response) (Jan. 28)
 
 ## Formal Assignments
