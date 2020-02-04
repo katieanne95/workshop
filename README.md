@@ -5,7 +5,7 @@ Katie Kauppi
 ## Responses to Readings
 
 1.  [Blumenstock Response](https://katieanne95.github.io/workshop/Blumenstock_response) (Jan. 28)
-2.  [Jahan, Rosling Response] (https://katieanne95.github.io/workshop/Jahan_Rosling_response) (Feb. 4)
+2.  [Jahan, Rosling Response](https://katieanne95.github.io/workshop/Jahan_Rosling_response) (Feb. 4)
 
 ## Formal Assignments
 
