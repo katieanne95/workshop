@@ -10,7 +10,7 @@ Katie Kauppi
 
 ## Formal Assignments
 
-1. Annotated Bibliography
+1. [Annotated Bibliography](https://katieanne95.github.io/workshop/assignment1) (Feb. 23)
    - Problem Statement 
      - Harms
      - Significance of those harms
