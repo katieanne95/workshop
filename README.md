@@ -8,6 +8,7 @@ Katie Kauppi
 2.  [Jahan, Rosling Response](https://katieanne95.github.io/workshop/Jahan_Rosling_response) (Feb. 4)
 3.  [Barder Response](https://katieanne95.github.io/workshop/Barder_response) (Feb. 18)
 4.  [Anderson, Kitchin Response](https://katieanne95.github.io/workshop/Anderson_Kitchin_response) (Feb. 25)
+5.  [Stevens Response](https://katieanne95.github.io/workshop/Stevens_response) (Mar. 26)
 
 ## Formal Assignments
 
