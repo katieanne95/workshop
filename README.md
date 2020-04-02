@@ -18,6 +18,6 @@ Katie Kauppi
      - Harms
      - Significance of those harms
      - Inherent nature of the problem
-   - Selecred LMIC or Region
-   - Dimension of Human Development
+   - Selected LMIC or Region: Sub-Saharan Africa
+   - Dimension of Human Development: Maternal Mortality
 2. Literature Review
