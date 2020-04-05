@@ -20,4 +20,4 @@ Katie Kauppi
      - Inherent nature of the problem
    - Selected LMIC or Region: Sub-Saharan Africa
    - Dimension of Human Development: Maternal Mortality
-2. Literature Review
+2. [Literature Review](https://katieanne95.github.io/workshop/assignment2) (Apr. 5)
