@@ -24,7 +24,7 @@ where the range of sj can vary but the range of y is restricted to values betwee
 
 To support the artificial neural network method, a Bayesian population growth model could be included. Using data from traditional population counting methods like censuses, Linard et al. describe how population growth is estimated using a simple equation for each gridcell. The equation is modeled as
 
-<img src="/Users/katiekauppi/Desktop/pert.png" alt="pert"  />
+![pert](https://github.com/katieanne95/workshop/blob/master/pert.png)
 
 where P2010 indicates the projected population in 2010 within a pixel (since this information came from before 2010), “Pd is the population within the same pixel at the year of the input population data, t is the number of years between the input data and 2010, and r is the urban or rural average growth rate taken from the UN World Urbanization Prospects Database, 2007 version” (6). This equation differs from machine learning models like an artificial neural network in that it is far less complex and will not “learn” from the data it receives. However, this can be crucial in identifying how a population will change over time. Instead of 2010, the population could be predicted for each year between now and 2030 to identify how the population will change and grow over time, and to better understand how aid will need to be directed as time passes. Similarly, areas with quickly growing populations will evidently be areas with high amounts of births, so these areas could be better targeted as areas where further research methods including micro censuses could be directed to better interpret the effectiveness of any intergovernmental aid. 
 
