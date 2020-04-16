@@ -18,7 +18,7 @@ Artificial neural networks work through a web of interconnected nodes called “
 
 where “Wij is the connection weight, xi is the input to the network and bj is the bias term.” The signal is then plugged into the function for the artificial neural network, which is
 
-![ann](/Users/katiekauppi/Desktop/ann.png)
+![ann](https://github.com/katieanne95/workshop/blob/master/ann.png)
 
 where the range of sj can vary but the range of y is restricted to values between 0 and 1. An artificial neural network is a good choice for this research because they encompass both linear and nonlinear patterns. This is because an artificial neural network is designed to have the ability to learn in a way that is very similar to our brains. Bosco et al. explain that the artificial neural network outperforms other models especially in cases where the distribution of the data does not reflect a normal distribution. However, the networks still perform best where there already are strong correlations, such as between “literacy and urbanization.” I would like to utilize an artificial neural network to predict certain population attributes, namely income and the distance to a hospital. This is because I hypothesize that there is a correlation between income and maternal mortality rates and a correlation between income and the distance to a hospital. I question whether those correlations may have something to do with why maternal mortality rates are so high in Africa. If so, it is feasible that low income would be reflected by poorly maintained hospitals, contributing to more deaths (1).
 
