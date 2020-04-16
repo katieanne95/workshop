@@ -21,3 +21,4 @@ Katie Kauppi
    - Selected LMIC or Region: Sub-Saharan Africa
    - Dimension of Human Development: Maternal Mortality
 2. [Literature Review](https://katieanne95.github.io/workshop/assignment2) (Apr. 5)
+3. [Methodology Paper](https://katieanne95.github.io/workshop/methodology) (Apr. 19)
