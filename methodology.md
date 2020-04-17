@@ -14,7 +14,7 @@ This is where more comprehensive data methods come into play. It is likely that 
 
 Artificial neural networks work through a web of interconnected nodes called “neurons.” The signals sent to each node (j) is represented by the equation
 
-![signal](https://github.com/katieanne95/workshop/blob/master/signal.png)
+![signal](signal.png)
 
 where “Wij is the connection weight, xi is the input to the network and bj is the bias term.” The signal is then plugged into the function for the artificial neural network, which is
 
