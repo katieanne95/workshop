@@ -14,17 +14,17 @@ This is where more comprehensive data methods come into play. It is likely that 
 
 Artificial neural networks work through a web of interconnected nodes called “neurons.” The signals sent to each node (j) is represented by the equation
 
-![signal](https://github.com/katieanne95/workshop/blob/master/signal.png)
+![signal](signal.png)
 
 where “Wij is the connection weight, xi is the input to the network and bj is the bias term.” The signal is then plugged into the function for the artificial neural network, which is
 
-![ann](https://github.com/katieanne95/workshop/blob/master/ann.png)
+![ann](ann.png)
 
 where the range of sj can vary but the range of y is restricted to values between 0 and 1. An artificial neural network is a good choice for this research because they encompass both linear and nonlinear patterns. This is because an artificial neural network is designed to have the ability to learn in a way that is very similar to our brains. Bosco et al. explain that the artificial neural network outperforms other models especially in cases where the distribution of the data does not reflect a normal distribution. However, the networks still perform best where there already are strong correlations, such as between “literacy and urbanization.” I would like to utilize an artificial neural network to predict certain population attributes, namely income and the distance to a hospital. This is because I hypothesize that there is a correlation between income and maternal mortality rates and a correlation between income and the distance to a hospital. I question whether those correlations may have something to do with why maternal mortality rates are so high in Africa. If so, it is feasible that low income would be reflected by poorly maintained hospitals, contributing to more deaths (1).
 
 To support the artificial neural network method, a Bayesian population growth model could be included. Using data from traditional population counting methods like censuses, Linard et al. describe how population growth is estimated using a simple equation for each gridcell. The equation is modeled as
 
-![pert](https://github.com/katieanne95/workshop/blob/master/pert.png)
+![pert](pert.png)
 
 where P2010 indicates the projected population in 2010 within a pixel (since this information came from before 2010), “Pd is the population within the same pixel at the year of the input population data, t is the number of years between the input data and 2010, and r is the urban or rural average growth rate taken from the UN World Urbanization Prospects Database, 2007 version” (6). This equation differs from machine learning models like an artificial neural network in that it is far less complex and will not “learn” from the data it receives. However, this can be crucial in identifying how a population will change over time. Instead of 2010, the population could be predicted for each year between now and 2030 to identify how the population will change and grow over time, and to better understand how aid will need to be directed as time passes. Similarly, areas with quickly growing populations will evidently be areas with high amounts of births, so these areas could be better targeted as areas where further research methods including micro censuses could be directed to better interpret the effectiveness of any intergovernmental aid. 
 
